@@ -18,15 +18,7 @@ displayButton.addEventListener('click', heroku);
 
 
 
-
-
-
-
-
-
-
-
-               // REFRENCE.
+//  REFRENCE.
 
 //  displayButton.addEventListener('click' ,() => {
 //     fetch('https://myfourth-heroku-app-c6c3fd288ce3.herokuapp.com/server', {
